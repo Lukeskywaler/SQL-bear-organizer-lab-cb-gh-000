@@ -1,7 +1,7 @@
 Create table bears (
   id integer,
   name text,
-  age integer, 
+  age integer,
   gender text,
   color text,
   temperament text,
